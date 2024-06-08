@@ -1,0 +1,41 @@
+{
+    "activeFile": "maps/level1.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "Все файлы (*)",
+    "fileStates": {
+        "level1.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 462.5,
+                "y": 373
+            }
+        },
+        "mainlevbuild.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "maps/level1.tmx": {
+            "scale": 0.33,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": -1571.212121212121,
+                "y": 106.06060606060606
+            }
+        },
+        "maps/mainlevbuild.tsx": {
+            "scaleInDock": 1
+        }
+    },
+    "openFiles": [
+        "maps/level1.tmx"
+    ],
+    "project": "",
+    "recentFiles": [
+        "maps/level1.tmx",
+        "mainlevbuild.tsx",
+        "level1.tmx"
+    ]
+}
